@@ -34,7 +34,7 @@ To get started with this project, follow the steps below:
 
    ```
    git clone https://github.com/cristianscheid/docx-to-pdf-converter.git
-   cd docx-to-pdf
+   cd docx-to-pdf-converter
    ```
 
 2. **Set up environment**
