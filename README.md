@@ -33,7 +33,7 @@ To get started with this project, follow the steps below:
 1. **Clone the repository**
 
    ```
-   git clone https://github.com/cristianscheid/docx-to-pdf.git
+   git clone https://github.com/cristianscheid/docx-to-pdf-converter.git
    cd docx-to-pdf
    ```
 
