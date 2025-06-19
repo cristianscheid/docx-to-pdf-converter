@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a lightweight full-stack application that enables users to upload `.docx` files and convert them into `.pdf` documents. It leverages Flask as a backend API to handle document conversion, and React with Tailwind CSS for the frontend interface. The application runs in a containerized environment using Docker, providing an efficient and portable development experience.
+Full-stack application that enables users to upload `.docx` files and convert them into `.pdf` documents. It leverages Flask as a backend API to handle document conversion, and React with Tailwind CSS for the frontend interface. The application runs in a containerized environment using Docker, providing an efficient and portable development experience.
 
 ### Features
 
