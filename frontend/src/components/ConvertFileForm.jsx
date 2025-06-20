@@ -16,7 +16,7 @@ const ConvertFileForm = () => {
       <button
         onClick={() => convertFile(file)}
         disabled={!file || loading}
-        className={`btn btn-primary w-full ${loading ? "loading" : ""}`}
+        className={`btn btn-primary w-full`}
       >
         {loading ? "Converting..." : "Convert and Download"}
       </button>
