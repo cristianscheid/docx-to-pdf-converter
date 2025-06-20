@@ -24,7 +24,7 @@ This project is a full stack application that enables users to upload `.docx` fi
 
 ## Visuals
 
-// TODO
+https://github.com/user-attachments/assets/d96ec413-3ef9-4441-bc28-f6568df45683
 
 ## Installation
 
